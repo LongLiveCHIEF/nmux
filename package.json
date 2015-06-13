@@ -24,6 +24,6 @@
   "homepage": "https://github.com/LongLiveCHIEF/nmux",
   "preferGlobal": true,
   "dependencies": {
-    "nconf": "^0.7.1"
+    "commander": "^2.8.1"
   }
 }
