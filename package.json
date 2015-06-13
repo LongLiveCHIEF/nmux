@@ -22,9 +22,8 @@
     "url": "https://github.com/LongLiveCHIEF/nmux/issues"
   },
   "homepage": "https://github.com/LongLiveCHIEF/nmux",
-  "preferGlobal":true,
+  "preferGlobal": true,
   "dependencies": {
-    "commander": "^2.8.1",
     "nconf": "^0.7.1"
   }
 }
