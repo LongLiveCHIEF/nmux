@@ -1,0 +1,29 @@
+{
+  "name": "nmux",
+  "version": "1.0.0",
+  "description": "A tmux utility inspired by tmuxinator, executed with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:LongLiveCHIEF/nmux.git"
+  },
+  "keywords": [
+    "tmux",
+    "tmuxinator",
+    "nmux",
+    "node"
+  ],
+  "author": "Brian Vanderbusch <brian@normalgravity.com> (https://github.com/LongLiveCHIEF)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LongLiveCHIEF/nmux/issues"
+  },
+  "homepage": "https://github.com/LongLiveCHIEF/nmux",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "nconf": "^0.7.1"
+  }
+}
